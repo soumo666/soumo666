@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumo666
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Macchine Learning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me ... Email id: souvikin.brilliantalone@gmail.com
 
