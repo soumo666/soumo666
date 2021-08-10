@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me ... Email id: souvikin.brilliantalone@gmail.com
+- 📫 How to reach me ... Email id: das.souvik4380@gmail.com
 
 <!---
 soumo666/soumo666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
